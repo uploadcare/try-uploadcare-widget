@@ -2,7 +2,7 @@
 
 ## ⚠️ Deprecation alert
 
-**This repository is deprecated. Please use the new [Uploadcare React File Uploader](https://github.com/uploadcare/file-uploader?tab=readme) for the latest updates and improvements.**
+**This package is deprecated. Please use the new [Uploadcare React File Uploader](https://github.com/uploadcare/react-components/tree/main/packages/react-uploader?tab=readme) for the latest updates and improvements.**
 
 ---
 
