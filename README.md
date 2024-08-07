@@ -1,4 +1,4 @@
-# React Wrapper for jQuery File Uploader Widget
+# React Wrapper for jQuery File Uploader
 
 ## ⚠️ Deprecation alert
 
@@ -12,7 +12,7 @@
     alt="">
 </a>
 
-This React component helps you integrate [Uploadcare jQuery File Uploader Widget][uc-feature-widget]
+This React component helps you integrate [Uploadcare jQuery File Uploader][uc-feature-widget]
 into your React app natively; props management and lazy loading are bundled.
 
 The component allows users to upload files from any file system and device, social media,
@@ -386,14 +386,14 @@ interface DialogApi {
 
 ### Widget configuration
 
-Uploadcare jQuery File Uploader Widget can be deeply customized to suit your UX/UI. You can define
+Uploadcare jQuery File Uploader can be deeply customized to suit your UX/UI. You can define
 allowed upload sources, implement file validation, and more.
 
 All the options defined in the [widget options docs][widget-options-docs] are
 also supported in the component as props (use the **camelCase** notation, you
 can find it under “Object key” in the referenced article).
 
-Use the live [Uploadcare jQuery File Uploader Widget][uc-widget-configure] as a starting
+Use the live [Uploadcare jQuery File Uploader][uc-widget-configure] as a starting
 point and consider checking out the docs on [widget configuration][uc-docs-widget-config].
 
 ## Security issues
