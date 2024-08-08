@@ -1,4 +1,4 @@
-import { CustomTabConstructor, FileInfo, Panel, PanelAPI, Widget, WidgetAPI } from '@uploadcare/react-widget';
+import { CustomTabConstructor, FileInfo, Panel, PanelAPI, Widget, WidgetAPI } from '../';
 import * as React from 'react';
 import { createPortal } from 'react-dom';
 import { createRoot } from 'react-dom/client';
