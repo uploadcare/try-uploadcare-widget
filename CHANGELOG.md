@@ -1,7 +1,3 @@
-## [2.4.6](https://github.com/uploadcare/react-widget/compare/v2.4.5...v2.4.6) (2024-08-08)
-
-No changes
-
 ## [2.4.5](https://github.com/uploadcare/react-widget/compare/v2.4.4...v2.4.5) (2023-07-04)
 
 * fix CI release workflows
