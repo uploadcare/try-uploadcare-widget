@@ -51,7 +51,7 @@
     "./locales.js": "./locales.js"
   },
   "scripts": {
-    "lint:types": "dtslint types --onlyTestTsNext",
+    "lint:types": "tsd --files \"./src/**/*.{ts,tsx,js}\" --files \"./types/**/*.{ts,tsx,js}\" --files \"./dist/**/*.{ts,tsx,js}\"",
     "lint:js": "eslint ./src/** ./test/** rollup.config.js",
     "clean": "rimraf dist",
     "build": "rollup -c",
@@ -64,7 +64,7 @@
     "release:trigger": "shipjs trigger"
   },
   "files": [
-    "dist/*",
+    "dist/**",
     "locales.js",
     "types/index.d.ts"
   ],
@@ -148,7 +148,6 @@
     "babel-eslint": "10.1.0",
     "babel-jest": "^29.7.0",
     "babel-plugin-annotate-pure-calls": "0.4.0",
-    "dtslint": "^3.4.2",
     "eslint": "8.38.0",
     "eslint-config-prettier": "8.8.0",
     "eslint-config-standard": "17.0.0",
@@ -173,7 +172,8 @@
     "rollup-plugin-copy": "^3.4.0",
     "rollup-plugin-module-replacement": "1.2.1",
     "shipjs": "0.26.3",
-    "typescript": "5.0.4",
+    "tsd": "^0.31.1",
+    "typescript": "5.5.4",
     "uploadcare-widget-tab-effects": "1.6.0"
   },
   "jest": {
