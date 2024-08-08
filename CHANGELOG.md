@@ -1,11 +1,6 @@
 ## [2.4.6](https://github.com/uploadcare/react-widget/compare/v2.4.5...v2.4.6) (2024-08-08)
 
-
-### Reverts
-
-* Revert "chore: release v2.4.6 (#398)" ([ea3b552](https://github.com/uploadcare/react-widget/commit/ea3b552baf1cde3674417f7b92aad51714e8c77a)), closes [#398](https://github.com/uploadcare/react-widget/issues/398)
-
-
+No changes
 
 ## [2.4.5](https://github.com/uploadcare/react-widget/compare/v2.4.4...v2.4.5) (2023-07-04)
 
