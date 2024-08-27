@@ -1,8 +1,8 @@
 # React Wrapper for jQuery File Uploader
 
-## ⚠️ Deprecation alert
+## ⚠️ Notice: File Uploader Option
 
-**This package is deprecated. Please use the new [Uploadcare React File Uploader](https://github.com/uploadcare/react-components/tree/main/packages/react-uploader?tab=readme) for the latest updates and improvements.**
+**This uploading wrapper remains fully functional and can be a great fit for your projects, especially if you have specific needs for jQuery. However, we recommend exploring our new [React File Uploader](https://github.com/uploadcare/react-components/tree/main/packages/react-uploader?tab=readme) to access the latest features and improvements.**
 
 ---
 
