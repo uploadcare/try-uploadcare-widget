@@ -1,3 +1,7 @@
+## [2.4.7](https://github.com/uploadcare/react-widget/compare/v2.4.6...v2.4.7) (2024-08-27)
+
+
+
 ## [2.4.6](https://github.com/uploadcare/react-widget/compare/v2.4.5...v2.4.6) (2024-08-08)
 
 No changes
